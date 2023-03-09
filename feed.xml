@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2023-03-09T20:28:49+13:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Liz Burke Consulting</title>
+  
+
+  
+    <subtitle>Library Consultancy for the modern era</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Strategy &amp;amp; Planning</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Strategy &amp; Planning" />
+      <published>2023-03-09T00:00:00+13:00</published>
+      <updated>2023-03-09T00:00:00+13:00</updated>
+      <id>http://localhost:4000/Strategy</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Strategy &amp; Planning" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Service Development and Reviews</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Service Development and Reviews" />
+      <published>2023-03-09T00:00:00+13:00</published>
+      <updated>2023-03-09T00:00:00+13:00</updated>
+      <id>http://localhost:4000/Services</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Service Provision" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Our Philosophy</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Our Philosophy" />
+      <published>2023-03-09T00:00:00+13:00</published>
+      <updated>2023-03-09T00:00:00+13:00</updated>
+      <id>http://localhost:4000/Philosophy</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Our Philosophy" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Library and Community Facilities</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Library and Community Facilities" />
+      <published>2023-03-09T00:00:00+13:00</published>
+      <updated>2023-03-09T00:00:00+13:00</updated>
+      <id>http://localhost:4000/Design</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Design, Facilities" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Collection Development</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Collection Development" />
+      <published>2023-03-09T00:00:00+13:00</published>
+      <updated>2023-03-09T00:00:00+13:00</updated>
+      <id>http://localhost:4000/CollectionDevelopment</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Collection Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Children, YA &amp;amp; Schools</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Children, YA &amp; Schools" />
+      <published>2023-03-09T00:00:00+13:00</published>
+      <updated>2023-03-09T00:00:00+13:00</updated>
+      <id>http://localhost:4000/Children</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Schools" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Testimonials</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Testimonials" />
+      <published>2022-03-09T00:00:00+13:00</published>
+      <updated>2022-03-09T00:00:00+13:00</updated>
+      <id>http://localhost:4000/testimonial</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
