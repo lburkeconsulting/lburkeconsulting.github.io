@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-03-10T16:19:25+13:00</updated>
+  <updated>2023-04-09T12:08:28+12:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -12,12 +12,44 @@
   
 
   
-    <subtitle>Supporting Libraries to Thrive</subtitle>
+    <subtitle>Enabling Libraries to Thrive</subtitle>
   
 
   
 
   
+  
+    <entry>
+      <title type="html">Children &amp;amp; Young Adults</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Children &amp; Young Adults" />
+      <published>2023-03-09T00:00:00+13:00</published>
+      <updated>2023-03-09T00:00:00+13:00</updated>
+      <id>http://localhost:4000/YA</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Strategy &amp;amp; Planning</title>
@@ -39,8 +71,6 @@
         
       </author>
 
-      
-        <category term="Strategy &amp; Planning" />
       
 
       
@@ -74,42 +104,6 @@
       </author>
 
       
-        <category term="Service Provision" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Our Philosophy</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Our Philosophy" />
-      <published>2023-03-09T00:00:00+13:00</published>
-      <updated>2023-03-09T00:00:00+13:00</updated>
-      <id>http://localhost:4000/Philosophy</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Our Philosophy" />
-      
 
       
 
@@ -141,8 +135,6 @@
         
       </author>
 
-      
-        <category term="Design, Facilities" />
       
 
       
@@ -176,8 +168,6 @@
       </author>
 
       
-        <category term="Collection Development" />
-      
 
       
 
@@ -190,8 +180,8 @@
     </entry>
   
     <entry>
-      <title type="html">Children, YA &amp;amp; Schools</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Children, YA &amp; Schools" />
+      <title type="html">School Libraries</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="School Libraries" />
       <published>2023-03-09T00:00:00+13:00</published>
       <updated>2023-03-09T00:00:00+13:00</updated>
       <id>http://localhost:4000/Children</id>
@@ -210,8 +200,6 @@
       </author>
 
       
-        <category term="Schools" />
-      
 
       
 
@@ -229,6 +217,38 @@
       <published>2022-03-09T00:00:00+13:00</published>
       <updated>2022-03-09T00:00:00+13:00</updated>
       <id>http://localhost:4000/testimonial</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Our Values</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Our Values" />
+      <published>2022-03-09T00:00:00+13:00</published>
+      <updated>2022-03-09T00:00:00+13:00</updated>
+      <id>http://localhost:4000/OurValues</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
